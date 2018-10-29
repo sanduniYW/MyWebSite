@@ -1,2 +1,1 @@
-# MyWebSite
-about my details
+# My-CV
