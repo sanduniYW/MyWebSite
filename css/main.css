@@ -944,7 +944,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin: 6rem 0 3rem;
 }
 .skill-bars li {
-	height: 2rem;
+	height: 1.5rem;
 	background: #a1a1a1;
 	width: 100%;
 	margin-bottom: 6rem;
@@ -965,7 +965,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .skill-bars li .progress{
 	background: #6c3483;
 	position: relative;
-	height: 150%;
+	height: 100%;
 }
 
 
