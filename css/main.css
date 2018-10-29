@@ -976,7 +976,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: white;
 	font-size: 1.1rem;
 	line-height: 1;
-	background: #313131;
+	background: #fef34cea;
 	padding: .6rem .6rem;
 	border-radius: 3px;
 }
@@ -987,7 +987,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-left: -5px;
 	border-right: 5px solid transparent;
 	border-left: 5px solid transparent;
-	border-top: 5px solid #313143;
+	border-top: 5px solid #313131;
 	content: "";
 }
 
