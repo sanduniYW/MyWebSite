@@ -962,8 +962,28 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	font-size: 1.5rem;
 	line-height: 2.4rem;
 }
-.skill-bars li .progress {
-	background: #fef34cea;
+.skill-bars li .progress70 {
+	background: #6c3483;
+	position: relative;
+	height: 100%;
+}
+.skill-bars li .progress90 {
+	background:  #ff5733;
+	position: relative;
+	height: 100%;
+}
+.skill-bars li .progress85 {
+	background:  #2874a6;
+	position: relative;
+	height: 100%;
+}
+.skill-bars li .progress75 {
+	background: #239b56;
+	position: relative;
+	height: 100%;
+}
+.skill-bars li .progress65 {
+	background: #b9770e;
 	position: relative;
 	height: 100%;
 }
